@@ -1,1 +1,2 @@
-show the path od directory
+#!/bin/bash
+cd ~
