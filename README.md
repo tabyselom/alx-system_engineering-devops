@@ -1,1 +1,1 @@
-show the path od directory
+Display the contents list of your current directory.
